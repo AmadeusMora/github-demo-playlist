@@ -1,4 +1,12 @@
 Song - Artist:
 
 sos - abba
+<<<<<<< HEAD
 one of us - abba
+=======
+one of us - abba
+he stopped - george jones
+what is life - george harrison
+song 1 - abba
+song 2 - artist 1
+>>>>>>> oldies
